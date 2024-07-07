@@ -148,7 +148,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Sample Video
 
-[![Medical Image Analysis](https://example.com/video_thumbnail.jpg)](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+[![Medical Image Analysis](https://example.com/video_thumbnail.jpg)](https://drive.google.com/drive/u/2/folders/1_f4cDaxzGmiegtPjw-eu686O1_IzWO0e)
 
 
 
