@@ -161,4 +161,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact Vamshikalavagunta@gmail.com.
 ```
 
-Copy and paste this markdown content into your README file, and it should be ready to use. Adjust the placeholders like `yourusername`, `your_openai_api_key`, `[your name]`, and `[your email]` with your actual information.
