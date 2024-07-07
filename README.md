@@ -1,9 +1,7 @@
-# AI-medical-diagnostics
-Medical Image Analyzer using Multimodal LLM
-Here's the content formatted in markdown for your README file:
-
-```markdown
 # Medical Image Analyzer Chatbot
+Medical Image Analyzer using Multimodal LLM
+
+
 
 Welcome to the Medical Image Analyzer Chatbot repository. This project utilizes OpenAI's GPT-4 and GPT-3.5 Turbo models to analyze medical images and provide insights. The application is built using Streamlit, which allows for an interactive web interface where users can upload medical images, get analysis results, ask follow-up questions, and get simplified explanations.
 
