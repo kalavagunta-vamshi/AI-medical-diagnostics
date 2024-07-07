@@ -1,4 +1,8 @@
 # Medical Image Analyzer Chatbot
+
+
+![chatbot](https://github.com/kalavagunta-vamshi/AI-medical-diagnostics/assets/85879989/a4abafed-2af8-4a28-b865-f3bf46c2fb3b)
+
 Medical Image Analyzer using Multimodal LLM
 
 
