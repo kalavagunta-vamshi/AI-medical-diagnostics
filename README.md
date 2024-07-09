@@ -77,7 +77,7 @@ The Medical Image Analyzer Chatbot is designed to assist medical professionals b
 1. **Run the Streamlit Application**
 
    ```bash
-   streamlit run app.py
+   streamlit run appp.py
    ```
 
 2. **Upload an Image**
